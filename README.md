@@ -1,6 +1,6 @@
 # Hi 👋, I'm HAVVA
 
-A passionate **Frontend Developer** based in **Istanbul, Turkey** 🇹🇷
+A passionate **FullStack Developer** based in **Istanbul, Turkey** 🇹🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/havvakrbck/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/havvakrbck1)
